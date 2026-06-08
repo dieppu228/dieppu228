@@ -31,13 +31,13 @@ Support the improvement of retrieval and response quality in the company’s cha
 Python, C/C++
 
 **AI / Machine Learning**
-Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Retrieval-Augmented Generation, Multi-Agent Systems
+Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Retrieval-Augmented Generation, Multi-Agent Systems, 
 
 **Frameworks & Libraries**
-PyTorch, LangChain, LangGraph, Hugging Face Transformers
+PyTorch, LangChain, LangGraph, Hugging Face Transformers, LightRAG
 
 **Tools & Platforms**
-Git, GitHub, Docker, FastAPI, n8n, FAISS, ChromaDB
+Git, GitHub, Docker, FastAPI, n8n, VectorDB(FAISS, Qdrant,ElastichSearch...), GraphDB(Neo4j...), Redis
 
 ## Education
 
