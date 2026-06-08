@@ -46,5 +46,7 @@ Vietnam - Japan Information Technology Program
 
 ## Contact
 
-* Email: [khacdiep2208@gmail.com](mailto:khacdiep2208@gmail.com)
-* GitHub: [dieppu228](https://github.com/dieppu228)
+- Email: khacdiep2208@gmail.com
+- GitHub: [dieppu228](https://github.com/dieppu228)
+- LinkedIn: [Khac Diep](https://www.linkedin.com/in/khac-diep-13b185367)
+- Facebook: [Khac Diep](https://www.facebook.com/khac.iep.292039/)
