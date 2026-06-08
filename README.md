@@ -18,6 +18,13 @@ Worked on LLM and RAG applications in the Shopify e-commerce domain, including d
 **AI Engineer Intern — Arthenix**
 Developed the core logic for a YouTube video summarization application, including transcript retrieval, speech-to-text processing, and third-party API integration.
 
+**AI Engineer — SoftDreams**
+Working on the company’s product chatbot system, with a focus on improving retrieval quality and researching advanced AI architectures for production use.
+
+Research RAG-based architectures for chatbot systems
+Experiment with document preprocessing, chunking, hybrid search, and reranking
+Explore GraphRAG, LightRAG, and Multi-Agent approaches for domain-specific AI applications
+Support the improvement of retrieval and response quality in the company’s chatbot product
 ## Skills
 
 **Programming Languages**
