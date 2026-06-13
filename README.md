@@ -12,14 +12,9 @@ I’m interested in building practical AI applications using Large Language Mode
 
 ## Experience
 
-**AI Engineer Intern — Qikify / OwnEgo**
-Worked on LLM and RAG applications in the Shopify e-commerce domain, including data preprocessing, document chunking, retrieval pipeline setup, BM25, and vector search.
-
-**AI Engineer Intern — Arthenix**
-Developed the core logic for a YouTube video summarization application, including transcript retrieval, speech-to-text processing, and third-party API integration.
 
 **AI Engineer — SoftDreams**
-Working on the company’s product chatbot system, with a focus on improving retrieval quality and researching advanced AI architectures for production use.
+Now I'm working on the company’s product chatbot system, with a focus on improving retrieval quality and researching advanced AI architectures for production use.
 
 Research RAG-based architectures for chatbot systems
 Experiment with document preprocessing, chunking, hybrid search, and reranking
@@ -31,13 +26,13 @@ Support the improvement of retrieval and response quality in the company’s cha
 Python, C/C++
 
 **AI / Machine Learning**  
-Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Retrieval-Augmented Generation, Multi-Agent Systems, Agentic AI, Prompt Engineering
+Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Retrieval-Augmented Generation, Multi-Agent Systems, Prompt Engineering
 
 **Frameworks & Libraries**  
 PyTorch, LangChain, LangGraph, Hugging Face Transformers, LightRAG, FastAPI
 
 **Tools & Platforms**  
-Git, GitHub, Docker, n8n, MCP, A2A, Redis, Vector Databases (FAISS, Qdrant, Elasticsearch), Graph Databases (Neo4j)
+Git, GitHub, Docker, n8n, MCP, Redis, Vector Databases (FAISS, Qdrant, Elasticsearch), Graph Databases (Neo4j)
 
 ## Education
 
