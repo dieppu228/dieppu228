@@ -13,7 +13,7 @@ I’m interested in building practical AI applications using Large Language Mode
 ## Experience
 
 
-**AI Engineer — SoftDreams**
+**AI Engineer**
 Now I'm working on the company’s product chatbot system, with a focus on improving retrieval quality and researching advanced AI architectures for production use.
 
 Research RAG-based architectures for chatbot systems
