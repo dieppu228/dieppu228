@@ -23,7 +23,7 @@ Support the improvement of retrieval and response quality in the company’s cha
 ## Skills
 
 **Programming Languages**
-Python, C/C++
+Python
 
 **AI / Machine Learning**  
 Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Retrieval-Augmented Generation, Multi-Agent Systems, Prompt Engineering
