@@ -1,7 +1,7 @@
 # Hi, I'm Nguyen Khac Diep 👋
 
 I'm an AI Engineer-oriented student with a strong foundation in Machine Learning, Deep Learning, and Natural Language Processing.
-I’m interested in building practical AI applications using Large Language Models, Retrieval-Augmented Generation, and Multi-Agent Systems.
+I’m interested in building practical AI applications using Large Language Models, Retrieval-Augmented Generation, and Agent/Multi-Agent Systems.
 
 ## About Me
 
